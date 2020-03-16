@@ -1,0 +1,76 @@
+body{
+    background-color: 
+}
+.myspan{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.t{
+    display: inline;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: silver;
+    border-radius: 50px;
+    padding: 10px;
+    cursor: pointer;
+    font-family: Arial
+}
+.table{
+    border: 2px solid blue;
+    border-radius: 20px;
+    background-color: #dfefff;
+    text-align: center;
+    width: 300px;
+    margin-left: 450px;
+}
+.table tr td{
+    border: 1px solid red;
+    cursor: pointer;
+}
+img{
+    
+}
+.myclas{
+    background-color: yellowgreen;
+    border: 1px solid red;
+}
+
+.myspan:focus{
+    border: 2px solid green;
+}
+
+.myspan:focus ~ span > #btnClick{
+   background: red;
+}
+
+.red
+{
+    background-color:slateblue;
+}
+
+.mysp{
+    background-color: aqua;
+    width: 25px;
+    max-height: 7px;
+        
+}
+span{
+    text-align: center;
+    display: inline
+}
+.mypointer{
+    background-color: aqua;
+    margin: 50px auto;
+    height: 200px;
+    width: 100px;
+    text-align: center;
+    display: block;
+        
+        
+}
+.myminutes
+{
+    text-align: center;
+        
+}
